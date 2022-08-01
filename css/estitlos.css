@@ -36,3 +36,9 @@ body{
     font-size: 0.8em;
 }
 
+#footer{
+    background: grey;
+    color: wheat;
+    text-align: center;
+    padding: 0.5em;
+}
